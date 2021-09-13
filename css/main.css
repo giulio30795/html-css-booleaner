@@ -66,3 +66,14 @@ thead{
 .background-row{
     background-color: #ade8f4;
 }
+
+/* Footer Section */
+h4 {
+    color: grey;
+}
+.gallery1{
+    height: 
+    background-image: url("../img/monitor.jpg");
+    background-position: center;
+    background-size: cover;
+}
