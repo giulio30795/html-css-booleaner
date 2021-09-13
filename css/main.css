@@ -48,3 +48,21 @@ h1{
 ul{
     padding-left: 15px;
 }
+
+/* Table Section */
+table{
+    border-collapse: collapse;
+}
+th{
+    text-align: left;
+}
+.last-data {
+    width: 50%;
+}
+thead{
+    color: white;
+    background-color: #00b4d8;
+}
+.background-row{
+    background-color: #ade8f4;
+}
