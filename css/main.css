@@ -36,8 +36,15 @@ h1{
     font-size: 13px;
 }
 
-
 /* Gallery Section  */
 .gallery{
     font-size: 13px;
+}
+/* Text Section */
+
+.yellow{
+    background-color: yellow
+}
+ul{
+    padding-left: 15px;
 }
