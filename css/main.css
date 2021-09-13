@@ -1,0 +1,19 @@
+/* Heaader Section */
+.container{
+    width: 50%;
+    height: 1000px;
+    margin: auto;
+    }
+
+.logo{
+    width: 100%;
+    height: 80px;
+    background-image: url("../img/pattern.png");
+    background-size: 35%;
+      background-color: lightblue;
+}
+
+#booleaner{
+    width: 150px;
+    padding-top: 30px;
+}
