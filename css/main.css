@@ -17,3 +17,17 @@
     width: 150px;
     padding-top: 30px;
 }
+/* Main Section */
+h1{
+    margin-bottom: 2px;
+}
+.writer{
+    color: grey;
+}
+#sign{
+    color: lightblue;
+}
+#date{
+    color: grey;
+    font-size: 13px;
+}
